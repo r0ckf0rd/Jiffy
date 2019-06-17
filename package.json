@@ -1,0 +1,24 @@
+{
+  "name": "jiffy",
+  "version": "1.0.0",
+  "description": "generate .gifs in a jiffy!",
+  "main": "./jiffy-backend/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd jiffy-backend && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0ckf0rd/Jiffy.git"
+  },
+  "author": "Nicholas Werner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r0ckf0rd/Jiffy/issues"
+  },
+  "homepage": "https://github.com/r0ckf0rd/Jiffy#readme",
+  "dependencies": {
+    "npm-run-all": "^4.1.5",
+    "ttab": "^0.6.1"
+  }
+}
