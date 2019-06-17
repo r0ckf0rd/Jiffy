@@ -5,7 +5,7 @@
   "main": "./jiffy-backend/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cd jiffy-backend && npm run start"
+    "start": "npm install && cd jiffy-backend && npm run start"
   },
   "repository": {
     "type": "git",
